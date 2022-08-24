@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Hi I am a University student.
 
-Maybe say a some things about yourself.
+In fact I am not good at coding but I will try to learn new things.
 
-Or maybe what you plan to blog about.
+My blog is really simple, I will post some interesting things here and hope you will like them.

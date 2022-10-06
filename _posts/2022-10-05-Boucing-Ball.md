@@ -1,5 +1,5 @@
 # Boucing Pingpong Ball Reference
 
-## I got some ideas from this digital interaction game
+## I created a boucing ball
 
-<iframe src="https://editor.p5js.org/annabelle131/full/faqf9-zrJ"></iframe>
+<iframe width=400 height=442 src="https://editor.p5js.org/annabelle131/full/faqf9-zrJ"></iframe>

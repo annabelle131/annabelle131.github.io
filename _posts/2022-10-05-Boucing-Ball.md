@@ -1,4 +1,4 @@
-# Boucing Pingpong Ball
+# Boucing Ball
 
 ## I created a boucing ball
 

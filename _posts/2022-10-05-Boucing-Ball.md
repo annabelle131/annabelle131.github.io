@@ -1,5 +1,5 @@
-# Boucing Pingpong Ball Reference
+# Boucing Pingpong Ball
 
 ## I created a boucing ball
 
-<iframe width="100%" height=442 src="https://editor.p5js.org/annabelle131/full/faqf9-zrJ"></iframe>
+<iframe width=640 height=682 src="https://editor.p5js.org/annabelle131/full/faqf9-zrJ"></iframe>

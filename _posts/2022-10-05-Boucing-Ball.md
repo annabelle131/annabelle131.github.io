@@ -2,4 +2,4 @@
 
 ## I created a boucing ball
 
-<iframe width=640 height=682 src="https://editor.p5js.org/annabelle131/full/faqf9-zrJ"></iframe>
+<iframe width=640 height=360 src="https://editor.p5js.org/annabelle131/full/faqf9-zrJ"></iframe>

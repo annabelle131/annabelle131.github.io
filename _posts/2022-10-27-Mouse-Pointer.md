@@ -1,4 +1,4 @@
-# Increase Mouse Pointer Size
+# 08 - Increase Mouse Pointer Size
 
 ## During the recording, I found my mum could not see the mouse, so I researched how to increase the mouse pointer bigger, hence letting my mum see it.
 ## On the screen, the mouse pointer is big, but in the recording video, I did not see the giant mouse pointer.

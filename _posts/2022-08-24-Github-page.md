@@ -1,4 +1,4 @@
-# How to build a Github page in minutes
+# 01 - How to build a Github page in minutes
 
 ## Firstly, what is a GitHub blog and how to build a blog?
 ## Google is good for searching for everything I do not know.
